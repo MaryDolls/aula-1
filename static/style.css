@@ -46,6 +46,12 @@ nav a:hover {
     border-radius: 8px;
 }
 
+img {
+    widht: 20vh;
+    height: 20vh;
+}
+
+
 /* Formulário */
 form {
     display: flex;
